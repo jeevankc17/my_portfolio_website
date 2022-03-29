@@ -10,18 +10,21 @@ const Intro = () => {
           <h1 className="i-name">Jeevan</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
-              <div className="i-title-item">Web Developer</div>
+              <div className="i-title-item">Web/3 Developer</div>
               <div className="i-title-item">BLockChain Enthusiast</div>
               <div className="i-title-item">UI/UX Designer</div>
               <div className="i-title-item">Video Editor</div>
-              <div className="i-title-item">Writer</div>
+              <div className="i-title-item">Motion Graphics/3D Animator</div>
               <div className="i-title-item">Content Creator</div>
             </div>
           </div>
           <p className="i-desc">
-            I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
+            With Huge passion and enthusiasm, I have experience working in the Web Development 
+            and Blockchain industry for several years. I have worked with different teams, to 
+            research and develop solutions. Developing customized web applications, better 
+            problem-solving methods as well as learning new technologies and platforms really 
+            excites me.
+            
           </p>
         </div>
         <svg

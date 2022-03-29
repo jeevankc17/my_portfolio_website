@@ -8,7 +8,7 @@ const About = () => {
         <div className="a-card bg"></div>
         <div className="a-card">
           <img
-            src="https://images.pexels.com/photos/3585047/pexels-photo-3585047.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            src="https://img.etimg.com/thumb/msid-82630390,width-650,imgsize-668758,,resizemode-4,quality-100/startup.jpg"
             alt=""
             className="a-img"
           />
@@ -21,15 +21,21 @@ const About = () => {
           readable content.
         </p>
         <p className="a-desc">
-          A well designed website can make a great impression on others and establish 
-          trust and authority immediately while a poorly designed site could do the opposite.
-          This is why I’m here. My attention to detail and aesthetic touch are here to deliver 
-          the best version of your website or photos.
+          <li>
+          Contributes in the development of blockchain-related technology and D-Apps
+          </li>
+          <li>
+          Analyse and suggest improvements in the overall development process
+          </li>
+          <li>
+          Researched on creating proper standards and processes for web3 project development
+          </li>
+
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">BKSS Ideathon 2020-"think to change"</h4>
             <p className="a-award-desc">
               This was something very special happened to me.
             </p>

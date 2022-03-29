@@ -1,32 +1,19 @@
+
 export const products = [
   {
     id: 1,
-    img: "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/158518276/original/43ea348c0133b648f4ddaf839f8b8edbd0434c42/design-your-website-from-top-to-bottom-on-photoshop.jpg",
+    img: "https://i.pinimg.com/236x/d9/a7/59/d9a7596734080a4a94adfbb242e6eed4.jpg",
     link: "https://moralstorynepal.blogspot.com/",
   },
   {
     id: 2,
-    img: "",
+    img: "https://i.pinimg.com/236x/d9/a7/59/d9a7596734080a4a94adfbb242e6eed4.jpg",
     link: "https://moralstorynepal.blogspot.com/",
   },
   {
     id: 3,
-    img: "",
+    img: "https://i.pinimg.com/236x/d9/a7/59/d9a7596734080a4a94adfbb242e6eed4.jpg",
     link: "https://moralstorynepal.blogspot.com/",
   },
-  {
-    id: 4,
-    img: "",
-    link: "https://moralstorynepal.blogspot.com/",
-  },
-  {
-    id: 5,
-    img: "",
-    link: "https://moralstorynepal.blogspot.com/",
-  },
-  {
-    id: 6,
-    img: "",
-    link: "https://moralstorynepal.blogspot.com/",
-  },
+
 ];
